@@ -1,0 +1,3 @@
+current time_msec = 35
+time_msec = 139 after sleeping 100 ticks, delta = 104ms!
+Test sleep1 passed!

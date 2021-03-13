@@ -1,0 +1,15 @@
+I am father
+father sleep 1s
+I am child
+child read 1 mail fail
+child sleep 2s
+father wirte 16 mails succeed
+father wirte 1 mail fail
+father sleep 2s
+child read 16 mails succeed
+child read 1 mail fail
+child sleep 1s
+father wirte 1 mail succeed
+child read 1 mail succeed
+child exit
+mail2 test OK!

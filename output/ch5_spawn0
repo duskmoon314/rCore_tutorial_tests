@@ -1,0 +1,81 @@
+new child 2
+new child 3
+new child 4
+new child 5
+new child 6
+new child 7
+new child 8
+new child 9
+new child 10
+new child 11
+new child 12Test getpid OK! pid = 2
+Test getpid OK! pid = 3
+Test getpid OK! pid = 4
+Test getpid OK! pid = 5
+Test getpid OK! pid = 6
+Test getpid OK! pid = 7
+Test getpid OK! pid = 8
+Test getpid OK! pid = 9
+Test getpid OK! pid = 10
+Test getpid OK! pid = 11
+Test getpid OK! pid = 12
+
+new child 13
+Test getpid OK! pid = 13
+Test getpid OK! pid = 14
+new child 14
+new child 15
+new child 16
+new child 17
+Test getpid OK! pid = 15
+Test getpid OK! pid = 16
+Test getpid OK! pid = 17
+Test getpid OK! pid = 18
+new child 18
+new child 19
+new child 20
+new child 21
+Test getpid OK! pid = 19
+Test getpid OK! pid = 20
+Test getpid OK! pid = 21
+Test getpid OK! pid = 22
+new child 22
+new child 23
+new child 24
+new child 25
+new child 26
+new child 27
+new child 28
+new child 29
+Test getpid OK! pid = 23
+Test getpid OK! pid = 24
+Test getpid OK! pid = 25
+Test getpid OK! pid = 26
+Test getpid OK! pid = 27
+Test getpid OK! pid = 28
+Test getpid OK! pid = 29
+Test getpid OK! pid = 30
+new child 30
+new child 31
+new child 32
+Test getpid OK! pid = 31
+Test getpid OK! pid = 32
+Test getpid OK! pid = 33
+new child 33
+new child 34
+new child 35
+new child 36
+new child 37
+new child 38
+Test getpid OK! pid = 34
+Test getpid OK! pid = 35
+Test getpid OK! pid = 36
+Test getpid OK! pid = 37
+Test getpid OK! pid = 38
+Test getpid OK! pid = 39
+new child 39
+new child 40
+new child 41
+Test getpid OK! pid = 40
+Test getpid OK! pid = 41
+Test spawn0 OK!
